@@ -1,4 +1,4 @@
-# Mask Architecture Anomaly Segmentation
+# Comprehensive Road Scene Understanding for Autonomous Driving
 This repository contains the implementation of a university project aiming to "design, train, and evaluate
 an anomaly segmentation model" for road scenes, using the EoMT (Everything on Mask Transformers) architecture.
 ## Student Produced Files
